@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pixel-Powered Focus Timer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>📚 Pixel Study Timer 📚</h1>
+
+  <div id="currencyContainer">
+    <span>🪙 Coins: </span><span id="currency">0</span>
+  </div>
+
+  <div id="timer">25:00</div>
+
+  <input type="number" id="customMinutes" placeholder="Custom minutes" min="1">
+
+  <div id="buttons">
+    <button id="startButton">Start</button>
+    <button id="pauseButton">Pause</button>
+    <button id="resetButton">Reset</button>
+  </div>
+
+  <!-- Buddy section -->
+  <div id="buddyContainer">
+    <img src="assets/pixel-buddy.png" alt="Pixel Buddy" id="buddyImage">
+    <p>Your Pixel Buddy is studying hard!</p>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
