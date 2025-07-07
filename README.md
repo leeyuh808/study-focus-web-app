@@ -1,6 +1,8 @@
 # study-focus-web-app
 
-Pixel Quest is an open-source, beginner-friendly project where you can learn coding by building a pixel-art multiplayer adventure game. Join in to practice programming, contribute features, and collaborate with others in a creative and supportive environment.
+Pixel-Powered Revision Tracker is a web-based productivity app designed to make studying more rewarding and fun. It combines a revision planner with a Pomodoro-style study timer, allowing users to earn pixel art coins as they complete study sessions. These coins can be spent on customising your virtual character and upgrading your in-app study space.
+
+Track your study hours, view subject-specific stats, and stay motivated with pixel art rewards as you build productive habits. Perfect for students who want to stay organised, track their progress, and enjoy a little nostalgia while they work.
 
 # Overview
 
